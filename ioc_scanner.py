@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# Starts the output with "IOC Scan Started"
+# Starts the output with "IOC Scan Started along with the date and time"
 print ("IOC Scan Started", datetime.now())
 
 # Takes the IP addresses from the Log file and the Malicious IP file
